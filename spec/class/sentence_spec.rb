@@ -1,4 +1,4 @@
-require_relative "../../class/sentence"
+require_relative "../../class/sentence_analyzer"
 
 describe SentenceAnalyzer do
   context "a complete sentence" do
